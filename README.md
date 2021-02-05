@@ -5,4 +5,4 @@ We're working with an old electronic Typewriter of the German brand "privileg" -
 
 Project is hosted here: https://git.hack-hro.de/hackhro/papercli
 
-Project on hold until June/July (The 'Rona).
+Project on hold.
